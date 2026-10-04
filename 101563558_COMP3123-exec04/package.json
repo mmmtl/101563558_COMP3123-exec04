@@ -1,0 +1,30 @@
+{
+    "name": "lab4_homework",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "keywords": [
+        "express",
+        "GET",
+        "POST",
+        "params",
+        "query",
+        "static",
+        "static middleware"
+    ],
+    "author": "Maria Tai",
+    "license": "ISC",
+    "description": "Lab4 extra exercise to practice Express, GET and POST requests, params vs query and middleware",
+    "dependecies": {
+        "express": "^5.2.1"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.4"
+    },
+    "dependencies": {
+        "express": "^5.2.1"
+    }
+}
